@@ -7,12 +7,17 @@ contributor:
     deathdate: 1973
     gutenberg_agent_id: '32061'
     url: http://www.gutenberg.org/2009/agents/32061
+covers:
+- cover_type: archival
+  image_path: 75755-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Whitehill, Dorothy
     gutenberg_agent_id: '25594'
     url: http://www.gutenberg.org/2009/agents/25594
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75755#Janet-a-twin
 gutenberg_issued: '2025-03-30'
 gutenberg_type: Text
 identifiers:
